@@ -175,6 +175,7 @@ index.html
 ## 👨‍💻 Developer
 
 **Abdallah Aabed**
+**id: 1210802**
 Computer Science Student – Birzeit University
 Web Development • JavaScript • APIs • Data Systems
 
